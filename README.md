@@ -16,4 +16,4 @@ JSON formatted outputs of Singapore Land Transport Authority DataMall API
 * [Planned Road Openings](planned_road_openings.json)
 * [Taxi Stands](taxi_stands.json)
 
-Accurate as of 2026/09/20
+Accurate as of 2026/09
